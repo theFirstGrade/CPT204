@@ -1,3 +1,5 @@
+package lab5;
+
 public class LLDeque<T> {
 
     private class Node {
@@ -207,7 +209,7 @@ public class LLDeque<T> {
 
 
     public static void main(String[] args) {
-//        LLDeque<String> deque = new LLDeque<>();
+//        lab5.LLDeque.java<String> deque = new lab5.LLDeque.java<>();
 //        System.out.println(deque.isEmpty());
 //        deque.addFirst("b");
 //        deque.addFirst("a");
